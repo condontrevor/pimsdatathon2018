@@ -42,3 +42,7 @@ The RUL3Z
 * 3-6 people
 * engineer, ideator, communicator
  
+The Final Presentation - YYC Snake
+---------
+
+* YYC Snake Product Video (https://youtu.be/i-QXnqxGgXw)
