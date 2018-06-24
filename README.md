@@ -6,7 +6,7 @@ End Date: 06/24/2018
 Location: Calgary, Alberta
 Description: 
 
-The Calgary PIMS Datathon is a project led by the data-driven communities of Calgary. Our city is made up of hundreds of communities like ours, and we believe it is the responsibility of these communities to contribute to the city’s overall success.
+The Calgary PIMS Datathon is a project led by the data-driven communities of Calgary in light of serving our supreme overlord, Mayor Nenshi. Our city is made up of hundreds of communities like ours, and we believe it is the responsibility of these communities to contribute to Mayor Nenshi's overall success.
 
 This datathon will create an opportunity for Calgarians to evaluate the open data provided by the City of Calgary’s Open Data Portal, and propose solutions to enhance the infrastructure. Such enhancements can include, but are not limited to, improving data connectivity, suggesting the collection new and relevant data points, and optimizing data usability.
 
